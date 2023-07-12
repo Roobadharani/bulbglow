@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+button{
+    width: 130px;
+    height:60px;
+    background: black;
+    color:white;
+    font-size: 50px;
+    border-radius: 10px;
+}
+img{
+    height: 500px;
+    width: 500px;
+
+}
+button:hover{
+    background-color: white;
+    color: black;
+    cursor:pointer;
+}
